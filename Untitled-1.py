@@ -16,5 +16,6 @@ if Grade >= 70 and Grade <80:
     print("Your GPA is a 2.0")
 
 #GPA Conversion for Ds
-
+if Grade >= 60 and Grade <70:
+    print("Your GPA is a 2.0") 
 
